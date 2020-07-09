@@ -10,6 +10,6 @@
 - 🔭 I’m currently working on GraphQL, JavaScript, React
 - 📫 Send me a message at twitter.com/shrutikapoor08
 - 😄 Pronouns: She / her
-- ⚡ Fun fact: I can't swim but I have been swimming with whale sharks.
+- ⚡ Fun fact: I can't swim but went swimming with whale sharks.
 
 
