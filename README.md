@@ -1,10 +1,9 @@
-### Hi there 👋
 
 <!--
 **shrutikapoor08/shrutikapoor08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![ShrutiKapoor](shruti.png)
+![ShrutiKapoor](https://github.com/shrutikapoor08/shrutikapoor08/blob/master/shruti.png)
 
 
 - 📰 I share weekly JavaScript JSByte at tinyletter.com/shrutikapoor
