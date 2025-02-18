@@ -4,7 +4,7 @@
 -->
 
 
-- 📰 JSByte: I share weekly JavaScript learnings at bit.ly/shruti-newsletter
+- 📰 JSByte: I share weekly JavaScript learnings at [bit.ly/shruti-newsletter](https://bit.ly/shruti-newsletter)
 - 🔭 I’m currently working on GraphQL, JavaScript, React
 - 📫 Send me a message at twitter.com/shrutikapoor08
 - 😄 Pronouns: She / her
