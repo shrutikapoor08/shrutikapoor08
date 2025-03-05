@@ -12,5 +12,3 @@
 
 
 
-
-[![find a brand partner (1)](https://github.com/user-attachments/assets/b6cd7ef8-fd7b-46b7-a398-806906095dcb)](https://github.com/sponsors/shrutikapoor08/)
